@@ -18,7 +18,7 @@
           "imaotai__config__shopid"
         ],
         "id": "yuheng.imaotai",
-        "script": "https://github.com/yaolifa/QX/blob/main/boxjs/imaotai.js",
+        "script": "https://raw.githubusercontent.com/yaolifa/QX/main/boxjs/imaotai.js",
         "descs_html": [
           "<a target='_blank' href='https://github.com/yaolifa/QX/boxjs'>README.md</a>"
         ],
