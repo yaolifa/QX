@@ -14,13 +14,6 @@
                 "<p style='color:#ff0000;margin-top:10px;'>步数不要超过50000</p>"
             ],
             "keys": [
-                "imaotai__config__istravel",
-                "imaotai__config__province",
-                "imaotai__config__city",
-                "imaotai__config__itemcode",
-                "imaotai__config__address",
-                "imaotai__config__location",
-                "imaotai__config__shopid"
             ],
             "settings": [
             ],
