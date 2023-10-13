@@ -9,9 +9,6 @@
             "id": "yuheng.imaotai",
             "name": "i茅台预约",
             "descs_html": [
-                "<em>一次BoxJS持久化的尝试</em>",
-                "<ol><li>每天刷一刷</li><li>健康第一</li><li>步数第二</li></ol>",
-                "<p style='color:#ff0000;margin-top:10px;'>步数不要超过50000</p>"
             ],
             "keys": [
             ],
